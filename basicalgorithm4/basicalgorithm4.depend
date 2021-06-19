@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563456606 source:c:\users\aktan\desktop\basicalgorithm4\main.c
+	<stdio.h>
+	<stdlib.h>
+

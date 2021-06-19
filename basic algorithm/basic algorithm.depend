@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562927578 source:c:\users\aktan\desktop\basic algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
